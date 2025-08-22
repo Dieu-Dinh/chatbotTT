@@ -4,7 +4,7 @@
 Ứng dụng hỗ trợ:
 - Chat trực tiếp với mô hình Gemini.
 - Lưu lịch sử hội thoại.
-- Tự động trả lời theo ngôn ngữ người dùng nhập (English ↔ Vietnamese).
+- Tự động trả lời theo ngôn ngữ người dùng nhập (English - Vietnamese).
 
 
 Cài đặt môi trường: 
